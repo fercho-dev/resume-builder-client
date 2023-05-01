@@ -37,11 +37,6 @@ const Resume = ({ result }) => {
                         </p>
                     </div>
                     <div>
-                        <img
-                            src={result.image_url}
-                            alt={result.fullName}
-                            className='resumeImage'
-                        />
                     </div>
                 </header>
                 <div className='resumeBody'>
